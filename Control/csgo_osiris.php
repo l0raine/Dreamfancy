@@ -1,1 +1,1 @@
-Osiris_1.exe
+CSGO_Osiris1.exe
